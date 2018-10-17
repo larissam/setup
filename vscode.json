@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "vim.otherModesKeyBindings": [
+    {
+      "before": ["up"],
+      "after": ["k", "k", "k", "k"]
+    },
+    {
+      "before": ["down"],
+      "after": ["j", "j", "j", "j"]
+    }
+  ],
+  "vim.disableAnnoyingNeovimMessage": true,
+  "tslint.autoFixOnSave": true
+}
