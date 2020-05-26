@@ -1,7 +1,15 @@
-# setup
-vimrc
+# Dev environment setup
 
-## Clipboard setup:
+## ZSH
+* iterm2 preferences
+* put the `neelesh` theme into the `~/.oh-my-zsh/` folder
+* install the powerline font in Font Book
+
+## Vim
+* copy over `~/.vimrc`
+* install Vundle
+
+### Clipboard
 
 * install vim via homebrew
 * make sure /usr/local/bin is on your $PATH
@@ -12,3 +20,5 @@ vimrc
 [Fixing arrow key shortcuts](https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a)
 
 [More fixing arrow key shortcuts](https://coderwall.com/p/a8uxma/zsh-iterm2-osx-shortcuts)
+
+## VSCode
