@@ -1,9 +1,9 @@
 # Dev environment setup
 
 ## ZSH
-* iterm2 preferences
 * put the `neelesh` theme into the `~/.oh-my-zsh/` folder
 * install the powerline font in Font Book
+* set iterm2 preferences (font and Solarized Dark theme)
 
 ## Vim
 * copy over `~/.vimrc`
